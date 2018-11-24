@@ -111,7 +111,7 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: mailto:buddha.saikia06@gmail.com
+      url: "mailto:buddha.saikia06@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://buddhasaikia@github.io"
@@ -136,10 +136,10 @@ footer:
       # url:
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      url:"https://www.facebook.com/buddha.saikia"
+      url: "https://www.facebook.com/buddha.saikia"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url:"https://github.com/buddhasaikia"
+      url: "https://github.com/buddhasaikia"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
@@ -148,7 +148,7 @@ footer:
       # url:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url:"https://www.instagram.com/buddhasaikia/"
+      url: "https://www.instagram.com/buddhasaikia/"
 
 
 # Reading Files
