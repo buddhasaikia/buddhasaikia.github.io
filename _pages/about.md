@@ -1,8 +1,6 @@
 ---
 title: "About"
 permalink: "/about/"
-header:
-  image: "/images/header.jpg"
 ---
 Hi, I create and design stuff around Android.
 
