@@ -110,7 +110,7 @@ author:
   email            : "buddha.saikia06@gmail.com"
   links:
     - label: "LinkedIn"
-      icon: "fab fa-linkedin"
+      icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/bsaikia/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
