@@ -1,4 +1,24 @@
 ---
+## About Jekyll
+
+Jekyll is a static site generator written in Ruby. It transforms plain text files (Markdown, HTML, Liquid templates) into a complete static website, generating HTML, CSS, and JavaScript for deployment. Jekyll is popular for personal sites, blogs, and documentation, and integrates seamlessly with GitHub Pages.
+
+## Project Structure
+
+- `_config.yml`: Main configuration for Jekyll (site settings, plugins, theme options).
+- `Gemfile`: Ruby gem dependencies for Jekyll and plugins.
+- `package.json`: JavaScript dependencies for build tools or enhancements.
+- `_data/`: YAML files for structured data like navigation and UI text.
+- `_includes/`: Reusable HTML/Liquid partials (navigation, analytics, comments, etc.).
+- `_layouts/`: Page and post layout templates.
+- `_sass/`: SCSS partials for site styling, including theme skins and custom overrides.
+- `assets/`: Contains CSS (`assets/css/`) and JavaScript (`assets/js/`) for site styling and interactivity.
+- `_pages/`: Custom pages (About, Projects, 404, etc.).
+- `images/`: Image assets for the site.
+- `staticman.yml`: Configuration for Staticman (comment system).
+- `index.html`: Main landing page.
+- Other files like `Rakefile`, `README.md`, and `LICENSE` are for automation, documentation, and licensing.
+
 ## License
 
 The MIT License (MIT)
